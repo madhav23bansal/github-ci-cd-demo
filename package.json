@@ -8,10 +8,15 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "tsc"
   },
-  "keywords": ["math", "library", "add"],
+  "keywords": [
+    "math",
+    "library",
+    "add"
+  ],
   "author": "Your Name",
   "license": "MIT",
   "devDependencies": {
-    "typescript": "^5.1.6"
+    "typescript": "^5.1.6",
+    "tsc": "^2.0.4"
   }
 }
