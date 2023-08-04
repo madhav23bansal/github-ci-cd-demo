@@ -1,6 +1,6 @@
 {
   "name": "github-ci-cd-demo",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple math library",
   "main": "index.js",
   "types": "dist/index.d.ts",
@@ -16,7 +16,7 @@
   "author": "Your Name",
   "license": "MIT",
   "devDependencies": {
-    "typescript": "^5.1.6",
-    "tsc": "^2.0.4"
+    "tsc": "^2.0.4",
+    "typescript": "^5.1.6"
   }
 }
